@@ -1,5 +1,5 @@
 <h2> Olá! Eu sou Lucas Monteiro. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" width="410"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="410"/>
 <h3> :zap: Sobre Mim </h3>
 
 - :briefcase: &nbsp; Back-end developer.
