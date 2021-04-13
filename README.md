@@ -5,13 +5,12 @@
 - :briefcase: &nbsp; Back-end developer.
 - :seedling: &nbsp; Apaixonado em tecnologia como um todo.
 - :writing_hand: &nbsp; Estudando e se mantendo atualizado sempre.
-- :coffee: &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
 <h3> :dizzy:  Skills</h3>
 
-- :computer: &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
+- :computer: &nbsp; Node | Python | JavaScript | HTML | CSS 
 - :rotating_light:  &nbsp;  MySQL | MongoDB | Postegres | Microsoft SQL Server 
-- :wrench: &nbsp; Visual Studio Code | Intellij | PyCharm | Visual Studio | Git
+- :wrench: &nbsp; Visual Studio Code | Intellij | Visual Studio | Git
 
 <br>
 
