@@ -2,7 +2,6 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <h3> :zap: Sobre Mim </h3>
 
-- :mortar_board: &nbsp;  Cursando Analise e Desenvolvimento de Sistemas.
 - :briefcase: &nbsp; Back-end developer.
 - :seedling: &nbsp; Apaixonado em tecnologia como um todo.
 - :writing_hand: &nbsp; Estudando e se mantendo atualizado sempre.
