@@ -1,6 +1,6 @@
 <h2> Olá! Eu sou Lucas Monteiro. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
-<h3> :man_technologist_tone1: Sobre Mim </h3>
+<h3> :zap: Sobre Mim </h3>
 
 - :mortar_board: &nbsp;  Cursando Analise e Desenvolvimento de Sistemas.
 - :briefcase: &nbsp; Back-end developer.
@@ -8,7 +8,7 @@
 - :writing_hand: &nbsp; Estudando e se mantendo atualizado sempre.
 - :coffee: &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
-<h3>:tools: Skills</h3>
+<h3> :dizzy:  Skills</h3>
 
 - :computer: &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
 - :oil:  &nbsp;  MySQL | MongoDB | Postegres | Microsoft SQL Server 
