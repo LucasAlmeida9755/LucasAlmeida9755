@@ -16,7 +16,6 @@
 
 
 
-<h3> 🤝🏻 Conecte-se comigo </h3>
 
 
 
