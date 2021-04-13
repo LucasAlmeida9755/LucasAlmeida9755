@@ -11,13 +11,13 @@
 <h3> :dizzy:  Skills</h3>
 
 - :computer: &nbsp; Node | Python | JavaScript | HTML | CSS | C | C#
-- :oil:  &nbsp;  MySQL | MongoDB | Postegres | Microsoft SQL Server 
+- :rotating_light:  &nbsp;  MySQL | MongoDB | Postegres | Microsoft SQL Server 
 - :wrench: &nbsp; Visual Studio Code | Intellij | PyCharm | Visual Studio | Git
 
 <br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizStevanatto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="LucasAlmeida9755 Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlmeida9755&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="LucasAlmeida9755 Github Stats">
 
 </br>
 
